@@ -148,7 +148,9 @@ Describe the value of having a standardised modelling system, especially where s
 
 </div>
 
-Create a UML diagram for a class
+Create a UML diagram for a class.
+
+_Example included in Appendix._
 
 <div align="left">
 
@@ -165,6 +167,8 @@ Create a UML diagram for a class
 </div>
 
 Create a navigation diagram
+
+_Example included in Appendix._
 
 <div align="left">
 
@@ -197,6 +201,8 @@ Create a diagram showing how elements of the Django application rely on each oth
 </div>
 
 Create a sequence diagram showing one user interaction with the application’s features. Perhaps, the HTTP process is a good option.
+
+_Example included in Appendix._
 
 <div align="left">
 

@@ -40,3 +40,4 @@
 * [Activity B - Change management](activity-b-change-management.md)
 * [Activity B - System change management](activity-b-system-change-management.md)
 * [Activity B - Documentation](activity-b-documentation.md)
+* [Appendix](appendix.md)

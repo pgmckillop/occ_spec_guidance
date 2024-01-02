@@ -14,9 +14,15 @@ description: >-
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/create_item_small.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/create_item_small (3).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+### Accessibility
+
+Write about the need to make sure that features are created to support users with difficulties, e.g., those with visual impairments can be supported through the inclusion of '**alt**' tags for any images included in a web page.
+
+Research and discuss any features included with the Bootstrap library that support accessibility.
 
 ### Problem statements
 

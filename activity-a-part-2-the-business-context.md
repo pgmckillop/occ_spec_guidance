@@ -4,7 +4,11 @@ description: Factors to take into account.
 
 # Activity A Part 2 - The Business Context
 
+<div align="left">
+
 <figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 This section will describe the internal and external factors affecting the business, such as location, human resources, marketing needs, and so forth.
 
@@ -36,6 +40,18 @@ Using a data-driven web application as an example, the requirements might be:
 
 </div>
 
+<div align="left">
+
+<figure><img src=".gitbook/assets/create_item_small (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Create a priority scoring for the Functional Requirements
+
+
+
+<table><thead><tr><th>Number</th><th>Requirement</th><th width="108">Priority</th><th>Rationale</th></tr></thead><tbody><tr><td>1</td><td>User Management</td><td>High</td><td>Setting up the users is fundamental, especially the superuser.</td></tr><tr><td>2</td><td>Data Entry</td><td>High</td><td>This is an essential component.</td></tr><tr><td>3</td><td>Data retrieval</td><td>High</td><td>This is an essential component.</td></tr><tr><td>4</td><td>Reporting</td><td>Medium</td><td>This should be implemented when the CRUD processes are fully tested</td></tr><tr><td>5</td><td>Integration</td><td>Low</td><td>The application is a standalone prototype, so this is not needed yet</td></tr></tbody></table>
+
 ### Non-functional Requirements
 
 Using a data-driven web application as an example, the requirements might be:
@@ -51,6 +67,18 @@ Using a data-driven web application as an example, the requirements might be:
 <figure><img src=".gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/create_item_small (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Create a priority scoring for the non-functional requirements
+
+
+
+<table><thead><tr><th>Number</th><th>Requirement</th><th width="106">Priority</th><th>Rationale</th></tr></thead><tbody><tr><td>1</td><td>Perfomance</td><td>Low</td><td>The prototype does not need to meet high volume requirements. Functional performance is considered through testing.</td></tr><tr><td>2</td><td>Security</td><td>High</td><td>The security offered by Django is crucial for acceptance criteria.</td></tr><tr><td>3</td><td>Scalability</td><td>Medium</td><td>The modularisation of the project will support this in production versions.</td></tr><tr><td>4</td><td>Usability</td><td>High</td><td>Client and user acceptamce will depend on this.</td></tr><tr><td>5</td><td>Reliability and availability</td><td>Low</td><td>The prototype version does not need to focus on this.</td></tr></tbody></table>
 
 ### Consider the value of Abstraction, decomposition, and modularisation.
 

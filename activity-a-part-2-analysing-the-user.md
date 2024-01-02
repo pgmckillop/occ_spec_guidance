@@ -6,6 +6,18 @@ description: >-
 
 # Activity A Part 2 - Analysing the user
 
+<div align="left">
+
+<figure><img src=".gitbook/assets/write_about_small (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/create_item_small.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ### Problem statements
 
 Describe the problems the user has in the simplest possible terms.

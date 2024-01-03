@@ -6,4 +6,9 @@ description: >-
 
 # Activity B
 
+The activity has :
+
+## <mark style="color:purple;">34 Marks</mark>
+
 <figure><img src=".gitbook/assets/image (179).png" alt=""><figcaption><p>Activity B</p></figcaption></figure>
+

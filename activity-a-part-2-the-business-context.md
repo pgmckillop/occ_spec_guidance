@@ -42,7 +42,7 @@ Using a data-driven web application as an example, the requirements might be:
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/create_item_small (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/create_item_small (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -70,7 +70,7 @@ Using a data-driven web application as an example, the requirements might be:
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/create_item_small (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/create_item_small (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

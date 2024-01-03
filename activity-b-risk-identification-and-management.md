@@ -10,7 +10,9 @@ description: General risk management
 
 </div>
 
-Identify some development risks and create a risk register featuring Threat, Likelihood, Impact, and Score, Mitigation.
+Consider how commercial development relies on the mitigation of risk to ensure the timely delivery of a functional project. You are providing examples of the framework that might be used to prioritise and manage any risks identified.
+
+Identify some development threats that might result in risks, and create a risk register featuring Threat, Likelihood, Impact, and Score, Mitigation.
 
 Example:
 

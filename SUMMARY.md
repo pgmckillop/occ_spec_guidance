@@ -42,3 +42,4 @@
 * [Activity B - Documentation](activity-b-documentation.md)
 * [Appendix](appendix.md)
 * [Design Thinking](design-thinking.md)
+* [Appendix B](appendix-b.md)

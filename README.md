@@ -11,6 +11,4 @@ description: >-
 * Task 3A - Gathering feedback to inform future development
 * Task 3B - Evaluating feedback to inform future development
 
-
-
-<figure><img src=".gitbook/assets/pgm 200.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/college  with_transparent background45H.png" alt=""><figcaption></figcaption></figure>

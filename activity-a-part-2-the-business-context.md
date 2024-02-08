@@ -16,7 +16,7 @@ You should describe the potential effect that these factors might have on the pl
 
 ### Consider viability
 
-Discuss the importance of checking that projects are viable from a variety of standpoints. For example, financial viability, making sure that the company is not put a risk. Also, discuss resource viability in terms of people, software, and hardware.
+Discuss the importance of checking that projects are viable from a variety of standpoints. For example, financial viability, making sure that the company is not put at risk. Also, discuss resource viability in terms of people, software, and hardware.
 
 <div align="left">
 
@@ -78,7 +78,7 @@ Using a data-driven web application as an example, the requirements might be:
 
 
 
-<table><thead><tr><th>Number</th><th>Requirement</th><th width="106">Priority</th><th>Rationale</th></tr></thead><tbody><tr><td>1</td><td>Perfomance</td><td>Low</td><td>The prototype does not need to meet high volume requirements. Functional performance is considered through testing.</td></tr><tr><td>2</td><td>Security</td><td>High</td><td>The security offered by Django is crucial for acceptance criteria.</td></tr><tr><td>3</td><td>Scalability</td><td>Medium</td><td>The modularisation of the project will support this in production versions.</td></tr><tr><td>4</td><td>Usability</td><td>High</td><td>Client and user acceptamce will depend on this.</td></tr><tr><td>5</td><td>Reliability and availability</td><td>Low</td><td>The prototype version does not need to focus on this.</td></tr></tbody></table>
+<table><thead><tr><th>Number</th><th>Requirement</th><th width="106">Priority</th><th>Rationale</th></tr></thead><tbody><tr><td>1</td><td>Performance</td><td>Low</td><td>The prototype does not need to meet high volume requirements. Functional performance is considered through testing.</td></tr><tr><td>2</td><td>Security</td><td>High</td><td>The security offered by Django is crucial for acceptance criteria.</td></tr><tr><td>3</td><td>Scalability</td><td>Medium</td><td>The modularisation of the project will support this in production versions.</td></tr><tr><td>4</td><td>Usability</td><td>High</td><td>Client and user acceptance will depend on this.</td></tr><tr><td>5</td><td>Reliability and availability</td><td>Low</td><td>The prototype version does not need to focus on this.</td></tr></tbody></table>
 
 ### Consider the value of Abstraction, decomposition, and modularisation.
 

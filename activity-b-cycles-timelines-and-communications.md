@@ -1,6 +1,6 @@
 ---
 description: >-
-  This section will described the proposed Software Development Life Cycle, how
+  This section will describe the proposed Software Development Life Cycle, how
   long the project will take, and how the client can be kept up to date on
   progress and problems.
 ---

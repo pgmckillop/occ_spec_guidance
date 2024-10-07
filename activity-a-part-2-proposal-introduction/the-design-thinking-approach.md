@@ -6,7 +6,11 @@ description: The value of the methodology
 
 A non-linear model focussed on the user and their problems.
 
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+
 Explain what issues are addressed by this approach that are an improvement on traditional methods.
+
+<figure><img src="../.gitbook/assets/write_about_small (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Stages Model.png" alt=""><figcaption></figcaption></figure>
 

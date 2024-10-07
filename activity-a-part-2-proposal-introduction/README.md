@@ -6,13 +6,13 @@ description: Scope of content
 
 ### Executive Summary
 
-![](<.gitbook/assets/image (138).png>)
+![](<../.gitbook/assets/image (138).png>)
 
 You should make use of the Set Task Brief document and summarise the initial brief scenario in your own words, picking out the nature of the client, their requirements, and a brief, non-technical, description of what you will provide.
 
 This is the scenario already considered:
 
-<figure><img src=".gitbook/assets/image (180).png" alt=""><figcaption><p>Scenario</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption><p>Scenario</p></figcaption></figure>
 
 ### Prototyping
 
@@ -22,7 +22,7 @@ Think about the advantages of early feedback from the client and the end users. 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ This may also relate to the maintenance needs in the future.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@ The non-functional requirements may involve aesthetic elements such as matching 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,7 +66,7 @@ Investigate whether Bootstrap will be useful in this aspect.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +78,7 @@ Once again, the target environment and the availability of software and hardware
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -90,6 +90,6 @@ The use of design thinking mapping will greatly aid the process of considering p
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 </div>

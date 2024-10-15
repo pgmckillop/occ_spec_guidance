@@ -18,7 +18,16 @@ Potentially, risk will exist at every stage of the development lifecycle.
 
 It is important to identify potential threats to the development, deployment, and use of the software. The identification allows the developer and client to assess the risk of the threats having an impact, and then take measures to mitigate those risks.
 
-Risk should be identified and assessed in a Risk Register. Mitigation should be identified to reduce the likelihood of the event and/or to reduce its effect on the project. (See sample register format in Appendix A)
+Risk should be identified and assessed in a Risk Register. Mitigation should be identified to reduce the likelihood of the event and/or to reduce its effect on the project. (See sample register format in Appendix A).
+
+It is also acceptable to document risks in text form covering different aspects of the system and its development. For example:
+
+<mark style="color:blue;">LOGIN:</mark>
+
+* <mark style="color:blue;">ITEM: User forgets their password</mark>
+* <mark style="color:blue;">MITIGATION: implement a reset password routine that is linked from the Login Page</mark>
+
+
 
 You should discuss how all stakeholders can help a team identify the threats and mitigate the risks.
 

@@ -12,7 +12,11 @@ description: Controlling the need to conform to Legislation, Regulation, and Gui
 
 ### Risk identification and mitigation
 
+Potentially, risk will exist at every stage of the development lifecycle.
+
 It is important to identify potential threats to the development, deployment, and use of the software. The identification allows the developer and client to assess the risk of the threats having an impact, and then take measures to mitigate those risks.
+
+Risk should be identified and assessed in a Risk Register. Mitigation should be identified to reduce the likelihood of the event and/or to reduce its effect on the project.
 
 You should discuss how all stakeholders can help a team identify the threats and mitigate the risks.
 

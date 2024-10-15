@@ -12,6 +12,8 @@ description: Controlling the need to conform to Legislation, Regulation, and Gui
 
 ### Risk identification and mitigation
 
+Risk only exists if a system has a vulnerability that can be exploited by a threat. It is often expressed as a score representing the likelihood that the system will be affected by the threat.
+
 Potentially, risk will exist at every stage of the development lifecycle.
 
 It is important to identify potential threats to the development, deployment, and use of the software. The identification allows the developer and client to assess the risk of the threats having an impact, and then take measures to mitigate those risks.

@@ -4,6 +4,18 @@ description: Resources
 
 # Appendix
 
+### Risk Register format
+
+| Risk                                | Likelihood | Impact | Score | Mitigation                                               |
+| ----------------------------------- | ---------- | ------ | ----- | -------------------------------------------------------- |
+| Insufficient resources              | 2          | 5      | 10    | Pre-order items with long lead times                     |
+| Staff skills are below requirements | 1          | 5      | 5     | Communicate with freelance agency to assess availability |
+| Collaboration tools go offline      | 1          | 3      | 3     | Organise phone contact groups                            |
+| ...                                 | ...        | ...    | ...   | ...                                                      |
+|                                     |            |        |       |                                                          |
+
+
+
 ### Navigation Diagram
 
 <figure><img src=".gitbook/assets/Navigation Diagram.png" alt=""><figcaption><p>Navigation Diagram</p></figcaption></figure>
